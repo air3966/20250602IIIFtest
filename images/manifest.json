@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://air3966.github.io/20250602IIIFtest/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in air3966/20250602IIIFtest project"
+        ]
+    },
+    "items": []
+}
