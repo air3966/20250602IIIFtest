@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 171,
+    "height" : 114
+  }, {
+    "width" : 342,
+    "height" : 228
+  }, {
+    "width" : 684,
+    "height" : 456
+  }, {
+    "width" : 1368,
+    "height" : 912
+  }, {
+    "width" : 2736,
+    "height" : 1824
+  }, {
+    "width" : 5472,
+    "height" : 3648
+  } ],
+  "profile" : "level0",
+  "width" : 5472,
+  "id" : "https://air3966.github.io/20250602IIIFtest/images/book_of_hours_verso_RGB",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3648
+}
