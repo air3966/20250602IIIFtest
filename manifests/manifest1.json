@@ -29,7 +29,7 @@
               "en" : [ "RGB" ]
             },
             "service" : [ {
-              "id" : "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-natural",
+              "id" : "https://air3966.github.io/20250602IIIFtest/images/book_of_hours_verso_RGB",
               "type" : "ImageService3",
               "profile" : "level1"
             } ]
@@ -43,7 +43,7 @@
               "en" : [ "X-Ray" ]
             },
             "service" : [ {
-              "id" : "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-xray",
+              "id" : "ttps://air3966.github.io/20250602IIIFtest/images/fcir",
               "type" : "ImageService3",
               "profile" : "level1"
             } ]
