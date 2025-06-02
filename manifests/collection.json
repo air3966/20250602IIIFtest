@@ -17,5 +17,11 @@
       "en" : [ "John Dee performing an experiment before Queen Elizabeth I." ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest_test.json",
+    "label" : {
+      "en" : [ "Book of Hours leaf imaged in Fall 2024." ]
+    },
+    "type" : "Manifest"
   } ]
 }
