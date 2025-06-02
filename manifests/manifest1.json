@@ -6,7 +6,7 @@
     "en" : [ "Test manifest!" ]
   },
   "items" : [ {
-    "id" : "https://iiif.io/api/cookbook/recipe/0033-choice/canvas/p1",
+    "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest1",
     "type" : "Canvas",
     "height" : 1271,
     "width" : 2000,
@@ -14,7 +14,7 @@
       "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest1",
       "type" : "AnnotationPage",
       "items" : [ {
-        "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest1image",
+        "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest1",
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
