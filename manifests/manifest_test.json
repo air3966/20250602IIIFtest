@@ -3,7 +3,7 @@
   "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifest_test.json",
   "type" : "Manifest",
   "label" : {
-    "en" : [ "Book of Hours leaf imaged in Fall 2024." ]
+    "en" : [ "Book of Hours leaf imaged in Fall 2024" ]
   },
   "items" : [ {
     "id" : "https://air3966.github.io/20250602IIIFtest/manifests/canvas/p1",
