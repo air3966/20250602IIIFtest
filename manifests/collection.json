@@ -23,5 +23,11 @@
       "en" : [ "Book of Hours leaf imaged in Fall 2024." ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://air3966.github.io/20250602IIIFtest/manifests/manifesttest.json",
+    "label" : {
+      "en" : [ "Book of Hours leaf imaged in Fall 2024" ]
+    },
+    "type" : "Manifest"
   } ]
 }
